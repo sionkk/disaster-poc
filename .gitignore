@@ -1,0 +1,18 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# DB / 데이터
+data/raw/
+data/poc_data/
+*.csv
+*.json
+logs/
+
+# 환경설정
+.env
